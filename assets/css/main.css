@@ -2464,6 +2464,7 @@ input, select, textarea {
 		button.fit,
 		.button.fit {
 			width: 100%;
+			background-color: #214fce;
 		}
 
 		input[type="submit"].small,
